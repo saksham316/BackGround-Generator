@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+#gradientt{
+    background-image: linear-gradient(to right,red,yellow);
+}
+h2{
+    text-align: center;
+    color: peachpuff;
+}
+h3{
+    text-align: center;
+}
